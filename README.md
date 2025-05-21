@@ -8,35 +8,29 @@ The dashboard further categorizes sales by sub-category, highlighting essential 
 <a href = "https://github.com/omnavghire28/Amazon-Sales-Dashboard/blob/main/global_superstore.xlsx" > Dataset Overview </a>
 
 ## Process
+1.Collect and Clean Data – Gather historical sales data and remove inconsistencies.
 
-Data Collection & Cleaning
+2.Analyze Trends – Identify top-selling items, market profitability, and seasonal sales patterns.
 
-Gather historical sales data including total sales, profits, and quantity sold from 2012 to 2015.
+3.Create the Dashboard – Visualize sales, profits, and product performance using tables and charts.
 
-Clean the dataset by handling missing values, removing inconsistencies, and ensuring uniform formatting.
+4.Optimize Insights – Ensure clarity for effective business decision-making and forecasting.
 
-Data Analysis & KPI Identification
+5.Deploy and Showcase – Upload the dashboard to GitHub with refined project documentation.
 
-Analyze market-wise sales and profitability trends across Europe, Asia Pacific, USCA, LATAM, and Africa.
+## Dashboard Interaction
+<a href = " https://github.com/omnavghire28/Amazon-Sales-Dashboard/blob/main/View1.png "> View 1 </a>
 
-Identify top-performing product categories, most sold items, and monthly sales variations.
+<a href = "https://github.com/omnavghire28/Amazon-Sales-Dashboard/blob/main/View%202.png "> View 2 </a>
 
-Calculate key metrics such as total profit, sales projections, and sub-category performance.
+<a href = "https://github.com/omnavghire28/Amazon-Sales-Dashboard/blob/main/View%203.png "> View 3 </a>
 
-Dashboard Design & Visualization
+<a href = "https://github.com/omnavghire28/Amazon-Sales-Dashboard/blob/main/View%204.png "> View 4 </a>
 
-Structure the dashboard to display sales trends, KPIs, and product performance using charts and tables.
+## Final Output
+The Amazon Sales Dashboard presents a comprehensive analysis of sales trends, profitability, and market performance across four years. It highlights key metrics such as total sales, quantity sold, and profit margins across markets like Europe, Asia Pacific, USCA, LATAM, and Africa. 
 
-Implement market-wise profit distribution, sub-category breakdowns, and month-wise sales visualization.
+The dashboard identifies the most sold item—Phones—alongside top-performing sub-categories such as Chairs, Copiers, Bookcases, and Storage. Each year’s data showcases fluctuations in sales, allowing businesses to evaluate market profitability trends. Additionally, monthly sales projections reveal seasonal patterns, helping companies optimize inventory and marketing strategies. 
 
-Optimization & Interpretation
+The structured tables and visualizations enable an intuitive understanding of sales growth, regional differences, and top-selling categories, making the dashboard a valuable tool for financial forecasting and business decision-making. By leveraging these insights, businesses can refine their strategies, improve product focus, and maximize revenue generation effectively
 
-Ensure the dashboard is responsive and provides user-friendly insights for decision-making.
-
-Validate findings and interpret trends for business growth strategies and financial forecasting.
-
-Deployment & Presentation
-
-Host the dashboard on GitHub for professional showcasing.
-
-Refine descriptions for better project documentation and industry relevance.
