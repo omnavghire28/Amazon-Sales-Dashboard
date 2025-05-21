@@ -19,7 +19,8 @@ The dashboard further categorizes sales by sub-category, highlighting essential 
 5.Deploy and Showcase – Upload the dashboard to GitHub with refined project documentation.
 
 ## Dashboard Interaction
-<a href = " https://github.com/omnavghire28/Amazon-Sales-Dashboard/blob/main/View%201.png "> View 1 </a>
+
+<a href = "https://github.com/omnavghire28/Amazon-Sales-Dashboard/blob/main/View1.png"> View 1 </a>
 
 <a href = "https://github.com/omnavghire28/Amazon-Sales-Dashboard/blob/main/View%202.png "> View 2 </a>
 
